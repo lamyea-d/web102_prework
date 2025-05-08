@@ -1,10 +1,10 @@
 # WEB102 Prework - SeaMonster Crowdfunding
 
-Submitted by: Maiwand Raheem
+Submitted by: Lamyea Diyea
 
 FundSource is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **15** hours spent in total
+Time spent: **20** hours spent in total
 
 ## Required Features
 
@@ -41,7 +41,7 @@ Not many but it was a good refresher and intro to new functions and features.
 
 ## License
 
-    Copyright [2025] [Maiwand Raheem]
+    Copyright [2025] [Lamyea Diyea]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
